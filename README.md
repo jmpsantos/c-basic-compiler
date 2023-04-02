@@ -27,4 +27,5 @@ Input characters, mathematical expressions and entire sentences, for which the c
 
 Credits:
 Áurea Laranja
+
 Francisco Marinho
