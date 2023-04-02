@@ -26,6 +26,7 @@ How to Use:
 Input characters, mathematical expressions and entire sentences, for which the compiler will try to recognize and classify each token.
 
 Credits:
+
 Áurea Laranja
 
 Francisco Marinho
