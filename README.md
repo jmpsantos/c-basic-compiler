@@ -13,11 +13,11 @@ How To Install (Linux):
 2. Make sure it is up to date --> sudo apt-get update
 3. Install Flex, Yacc and Bison using the following commands:
 
-    -sudo apt-get bison
+    - sudo apt-get bison
     
-    -sudo apt-get yacc
+    - sudo apt-get yacc
     
-    -sudo apt-get flex
+    - sudo apt-get flex
 
 4. Run this command to generate a bash executable file --> gcc lex.yy.c
 5. Test the bash file --> ./a.out
